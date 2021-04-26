@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-This is the change
 
 int main()
 {
